@@ -9,3 +9,6 @@ man/persepolis.1.gz
 .idea/
 .mypy_cache
 
+# windows workspace
+aria2c.exe
+msghost.log
